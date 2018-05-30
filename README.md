@@ -16,7 +16,7 @@ webthing = { git = "https://github.com/mozilla-iot/webthing-rust" }
 
 # Example
 
-In this example we will set up a dimmable light and a humidity sensor (both using fake data, of course). Both working examples can be found in [here](https://github.com/mozilla-iot/webthing-rust/tree/master/example).
+In this example we will set up a dimmable light and a humidity sensor (both using fake data, of course). Both working examples can be found in [here](https://github.com/mozilla-iot/webthing-rust/tree/master/examples).
 
 ## Dimmable Light
 
